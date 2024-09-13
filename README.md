@@ -1,6 +1,6 @@
 # Project Name 👍
 
-A brief description of what your project does and its purpose.
+_______________
 
 ## Python version ❗❗
 Python 3.11.1
