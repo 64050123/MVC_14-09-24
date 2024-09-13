@@ -34,6 +34,7 @@ This project is an MVC (Model-View-Controller) architecture example combining bo
 ## Installation ⚙️
 
 1. **Create a Virtual Environment**
+
    -python -m venv venv
 
 2. **Activate the Virtual Environment**
@@ -45,9 +46,11 @@ This project is an MVC (Model-View-Controller) architecture example combining bo
      source venv/bin/activate
 
 3. **Install Dependencies**
+
    pip install -r requirements.txt
 
 4. **Run the Project**
+
    -python main.py
 
 
