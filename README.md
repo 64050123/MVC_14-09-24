@@ -1,6 +1,6 @@
 # Project Name 👍
 
-_______________
+________________
 
 ## Python version ❗❗
 Python 3.11.1
